@@ -1,10 +1,12 @@
-#Railway Reservation Program in binary format
-#the function uses the various commands in pickle module for:
-#1. Ticket booking/reservation
-#2. Waiting list display
-#3. Specific ticket display
-#4. Modification in ticket
-#5. Cancellation of ticket
+'''
+Railway Reservation Program - binary format
+The function uses the various commands in pickle module for:
+1. Ticket booking/reservation
+2. Waiting list display
+3. Specific ticket display
+4. Modification in ticket
+5. Cancellation of ticket
+'''
 
 import pickle
 import random
